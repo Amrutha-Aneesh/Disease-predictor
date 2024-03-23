@@ -7,10 +7,10 @@ Utilise Random Forest and KNN for accurate predictions.
 # Dataset
 The dataset used for training are breast cancer dataset, heart disease dataset and diabetes dataset downloaded from Kaggle. The heart disease dataset contains features such as age, gender, cholesterol etc. It contains 304 entries along with the target. The breast cancer dataset contains radius_mean, texture_mean etc. It contains 570 data entries along with target. The diabetes dataset contains features such as blood pressure, glucose, insulin. It contains 577 entries.
 # Libraries Used
-Django: Python web framework for building the application.
-NumPy: Library for numerical computing.
-Pandas: Library for data manipulation and analysis.
-Scikit-learn: Library for machine learning algorithms.
+* Django: Python web framework for building the application.
+* NumPy: Library for numerical computing.
+* Pandas: Library for data manipulation and analysis.
+* Scikit-learn: Library for machine learning algorithms.
 # Data Sources
 Data for training and testing the machine learning models can be found in the static/ directory.
 ![image](https://github.com/Amrutha-Aneesh/Disease-predictor/assets/92156921/b914db46-aaff-40f8-9136-a9a821da21c4)
